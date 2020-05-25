@@ -15,8 +15,8 @@ clear
 read -p "MASUKIN NAMA LU CUYY : " pil
 
 clear
-
-echo "^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"
+echo "TAMPILAN SEDERHANA!"
+echo "№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№№"
 echo "-------Autor : Cyber Limit---------"
 echo "-----My team : Wisnu | Panjull-----"
 echo "___________________________________"
@@ -150,6 +150,4 @@ echo "VIRUS BERHASIL DIKIRIM"
 sleep 1
 echo "VIRUS BERHASIL DIKIRIM"
 sleep 1
-echo "VIRUS BERHASIL DIKIRIM"
-sleep 1
-echo "VIRUS SELESAI DIKIRIM"
+echo "VIRUS SELESAI DILAKUKAN✓"
