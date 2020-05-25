@@ -152,6 +152,4 @@ echo "VIRUS BERHASIL DIKIRIM"
 sleep 1
 echo "VIRUS BERHASIL DIKIRIM"
 sleep 1
-echo ""
-echo ""
-echo -e "$yellow virus selesai Dikirim"
+echo "VIRUS SELESAI DIKIRIM"
